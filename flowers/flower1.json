@@ -1,0 +1,14 @@
+{
+    "number": 1,
+    "imageFilePath": "image_name.jpg",
+    "compositions": [
+		"eustoma", "carnation"],
+		
+    "colors": [
+		"tender", "pink"],
+		
+    "ocasions": [
+		"corporate", "individual", "birthday", "wedding"],		
+		
+    "background": "light"
+}

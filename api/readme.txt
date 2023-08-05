@@ -1,0 +1,3 @@
+- change api name to flowersApi
+- all json definitions will be written manually
+- add to github

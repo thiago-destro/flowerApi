@@ -1,6 +1,6 @@
 {
-    "number": 1,
-    "imageFilePath": "image_name.jpg",
+    "id": 1,
+    "imageFilePath": "images/flower1.jpg",
     "compositions": [
 		"eustoma", "carnation"],
 		

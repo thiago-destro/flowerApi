@@ -1,0 +1,20 @@
+{
+    "id": 2,
+    "imageFilePath": "flower2.jpg",
+	"background": "dark",
+    "compositions": [
+		"eustoma", 
+		"carnation"
+	],
+		
+    "colors": [
+		"pink"
+	],
+		
+    "ocasions": [
+		"corporate", 
+		"individual", 
+		"birthday", 
+		"wedding"
+	]
+}
